@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "FCTest.exe (FileCrawler\\FileCrawlerTests\\FCTest.exe)",
+      "name": "FCTest.exe (FileCrawler\\FileCrawlerTests\\FCTest.exe)"
+    }
+  ]
+}
